@@ -1,6 +1,6 @@
 # 🎓 About Me:
-I'm a Software Engineering student pursuing a Bachelor's Degree, passionate about coding.
-I explore innovative projects and solutions in my work.
+I'm a Software Engineering student pursuing a Bachelor's Degree, passionate about coding. <br>
+I explore innovative projects and solutions in my work. <br>
 Welcome to my GitHub profile!
 
 ## 🌐 Socials:
