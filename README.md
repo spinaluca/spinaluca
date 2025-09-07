@@ -1,5 +1,6 @@
 # 🎓 About Me:
-I'm a Software Engineering student pursuing a Bachelor's Degree, passionate about coding. <br>
+I'm a Software Engineering student pursuing a Master's Degree, passionate about coding. <br>
+I graduated **with honors** in my Bachelor's Degree in Software Engineering. <br>
 I explore innovative projects and solutions in my work. <br>
 Welcome to my GitHub profile!
 
