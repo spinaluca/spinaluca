@@ -4,7 +4,7 @@ I graduated **with honors** in my Bachelor's Degree in Software Engineering. <br
 I explore innovative projects and solutions in my work. <br>
 Welcome to my GitHub profile!
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spinaluca_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spinaluca) 
 
 # 💻 Tech Stack:
